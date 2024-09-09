@@ -20,7 +20,7 @@ Soy un Ingeniero Informático apasionado por el desarrollo web y el software. Te
 ### 🧑‍💻 Acerca de mí:
 - 🌱 Actualmente, estoy profundizando mis conocimientos en desarrollo backend con **Django** y **Python**.
 - 🎯 Busco colaborar en proyectos de software y desarrollo web.
-- 📫 Puedes contactarme en [LinkedIn]([https://www.linkedin.com/in/pablomorenocanduela/]().
+- 📫 Puedes contactarme en [LinkedIn]([https://www.linkedin.com/in/pablomorenocanduela/]).
 
 ---
 
